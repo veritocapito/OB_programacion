@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8742e9ae-54d9-4cdc-83bb-c46d6afe5e2f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJ3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EJ3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJ3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EJ3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJ3/Programacion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EJ3/Programacion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programacion.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
